@@ -1,6 +1,6 @@
-# 零基础转CS第一步，架设虚拟机，把EC2, Linux, SSH写上简历
+# 零基础转CS第一步，架设虚拟机，学习EC2, Linux, SSH技能
 
-大家好，许多同学们在转CS的第一步就是架设自己的编程环境，那么怎样架设一个方面又免费，并且和Amazon, Google之类大厂无缝接轨的工作环境呢？今天小白就来介绍如何通过Amazon Web Services架设属于自己的编程环境。通过这个短视频，你可以学到：
+大家好，许多同学们在转CS的第一步就是架设自己的编程环境，怎样架设一个方面又免费，并且和Amazon, Google之类大厂无缝接轨的工作环境呢？今天小白就来介绍如何通过Amazon Web Services架设属于自己的编程环境。通过这个短视频，你可以学到：
 1. 开发工具: EC2, SSH
 2. 操作系统：Linux
 视频的最后我们一起修改简历，把所学到的内容写到简历上。
@@ -52,7 +52,7 @@ ssh -i "test1.pem" ec2-user@ec2-18-191-134-53.us-east-2.compute.amazonaws.com。
 在Platform加入操作系统Linux, Mac和Windows
 
 好了，这就是关于架设EC2服务器的方法，如果你有任何问题，可以在评论区里给我留言，我会尽快回答。
-下一个视频我会交大家如何设置Python环境，把github, yum, python写到简历里。 
+下一个视频我会交大家如何设置Python环境，学习github, yum, python技能。 
 如果你喜欢这个视频请按赞鼓励，下次再见咯。
 
 
